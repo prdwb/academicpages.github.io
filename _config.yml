@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Qu"
 title_separator          : "-"
 name                     : &name "Chen Qu"
-description              : &description "PhD student at UMass Amherst"
+description              : &description "MS/PhD student in information retrieval"
 url                      : https://chenqu.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prdwb/prdwb.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Chen Qu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MS/PhD Student at CIIR, CICS, UMass Amherst"
+  location         : "Amherst, MA, US"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : chenqu at cs.umass.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
