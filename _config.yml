@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chen Qu"
 title_separator          : "-"
-name                     : &name "Chen Qu (曲忱)"
+name                     : &name "Chen Qu"
 description              : &description "MS/PhD student in information retrieval"
 url                      : https://chenqu.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Qu"
+  name             : "Chen Qu (曲忱)"
   avatar           : "profile.png"
   bio              : "MS/PhD Student at CIIR, CICS, UMass Amherst"
   location         : "Amherst, MA, US"
