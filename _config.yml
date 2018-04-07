@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chen Qu"
 title_separator          : "-"
-name                     : &name "Chen Qu"
+name                     : &name "Chen Qu (曲忱)"
 description              : &description "MS/PhD student in information retrieval"
 url                      : https://chenqu.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
