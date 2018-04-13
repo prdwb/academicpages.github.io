@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Qu"
+title                    : ""
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Chen Qu - MS/PhD student in information retrieval"
