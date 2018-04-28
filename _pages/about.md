@@ -18,6 +18,7 @@ My name is Chen Qu. I am a first year MS/PhD student advised by Prof. [W. Bruce 
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [*To appear*]
 
 ## News
+* [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba group to do research on multi-turn QA and conversational assistants.
 * [Apr. 2018]  Two papers accepted by SIGIR 2018.
 
 ## CV
