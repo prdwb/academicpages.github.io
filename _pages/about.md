@@ -21,5 +21,8 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do research on multi-turn QA and conversational assistants.
 * [Apr. 2018]  Two papers accepted by SIGIR 2018.
 
+## Awards
+* SIGIR Student Travel Grant 2018.
+
 ## CV
 [Download here](https://chenqu.me/files/ChenQU_CV.pdf)
