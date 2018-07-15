@@ -25,4 +25,4 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * SIGIR Student Travel Grant 2018.
 
 ## CV
-[Download here](https://chenqu.me/files/ChenQU_CV.pdf)
+[Download here](https://chenqu.me/files/ChenQU_CV_0715.pdf)
