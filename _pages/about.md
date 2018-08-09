@@ -12,7 +12,7 @@ My name is Chen Qu. I am a first year MS/PhD student advised by Prof. [W. Bruce 
 
 ## Publications
 * **Analyzing and Characterizing User Intent in Information-seeking Conversations**  
-**Chen Qu**, Liu Yang, W. Bruce Croft, Johanne R Trippas, Yongfeng Zhang, Minghui Qiu. **SIGIR 2018**. Short Paper. Acceptance rate=30% (98 out of 327). [[PDF](https://arxiv.org/abs/1804.08759)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)][[Poster](https://chenqu.me/files/SIGIR_18_Poster (2).pdf)]
+**Chen Qu**, Liu Yang, W. Bruce Croft, Johanne R Trippas, Yongfeng Zhang, Minghui Qiu. **SIGIR 2018**. Short Paper. Acceptance rate=30% (98 out of 327). [[PDF](https://arxiv.org/abs/1804.08759)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)] [[Poster](https://chenqu.me/files/SIGIR_18_Poster (2).pdf)]
 
 * **Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems**  
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
