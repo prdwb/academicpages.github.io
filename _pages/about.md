@@ -10,6 +10,11 @@ redirect_from:
 
 My name is Chen Qu. I am a first year MS/PhD student advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
 
+## Experience
+* UMass Amherst, MS/PhD student at Center for Intelligent Information Retrieval (CIIR). Advisor: Prof. W. Bruce Croft. Amherst, MA, US, Sept. 2017 - Present.
+* Alibaba Group, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
+* Tencent, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
+
 ## Publications
 * **Analyzing and Characterizing User Intent in Information-seeking Conversations**  
 **Chen Qu**, Liu Yang, W. Bruce Croft, Johanne R Trippas, Yongfeng Zhang, Minghui Qiu. **SIGIR 2018**. Short Paper. Acceptance rate=30% (98 out of 327). [[PDF](https://arxiv.org/abs/1804.08759)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)] [[Poster](https://chenqu.me/files/SIGIR_18_Poster (2).pdf)]
