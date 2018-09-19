@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chen Qu. I am a first year MS/PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
+My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
 
 ## Experience
 * UMass Amherst, MS/PhD student at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.
