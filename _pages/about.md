@@ -17,6 +17,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 
 ## Publications
 * **Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching**
+
 **Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [*To appear*]
 
 * **Analyzing and Characterizing User Intent in Information-seeking Conversations**  
