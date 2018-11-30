@@ -16,6 +16,12 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 * Tencent, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
+* **User Intent Prediction in Information-seeking Conversations**  
+**Chen Qu**, Liu Yang, Bruce Croft, Yongfeng Zhang, Johanne R Trippas and Minghui Qiu. **CHIIR 2019**. Full Paper. [*To appear*]
+
+* **Answer Interaction in Non-factoid Question Answering Systems**  
+**Chen Qu**, Liu Yang, W. Bruce Croft, Falk Scholer and Yongfeng Zhang. **CHIIR 2019**. Short Paper. [*To appear*]
+
 * **Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching**  
 **Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [*To appear*]
 
@@ -26,6 +32,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
+* [Nov. 2018]  Two papers accepted by CHIIR 2019.
 * [Oct. 2018]  A paper accepted by WSDM 2019.
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
 * [Apr. 2018]  Two papers accepted by SIGIR 2018.
@@ -34,4 +41,4 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * SIGIR Student Travel Grant 2018.
 
 ## CV
-[Download here](https://chenqu.me/files/ChenQU_CV_1022.pdf)
+[Download here](https://chenqu.me/files/ChenQU_CV.pdf)
