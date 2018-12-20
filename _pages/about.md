@@ -38,7 +38,7 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * [Apr. 2018]  Two papers accepted by SIGIR 2018.
 
 ## Awards
-* SIGIR Student Travel Grant 2018.
+* SIGIR Student Travel Grant for SIGIR18 and CHIIR19.
 
 ## CV
 [Download here](https://chenqu.me/files/ChenQU_CV.pdf)
