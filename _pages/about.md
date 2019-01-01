@@ -23,7 +23,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 **Chen Qu**, Liu Yang, W. Bruce Croft, Falk Scholer and Yongfeng Zhang. **CHIIR 2019**. Short Paper. [*To appear*]
 
 * **Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching**  
-**Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [*To appear*]
+**Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [[PDF](http://arxiv.org/abs/1812.11561)]
 
 * **Analyzing and Characterizing User Intent in Information-seeking Conversations**  
 **Chen Qu**, Liu Yang, W. Bruce Croft, Johanne R Trippas, Yongfeng Zhang, Minghui Qiu. **SIGIR 2018**. Short Paper. Acceptance rate=30% (98 out of 327). [[PDF](https://arxiv.org/abs/1804.08759)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)] [[Poster](https://chenqu.me/files/SIGIR_18_Poster (2).pdf)]
