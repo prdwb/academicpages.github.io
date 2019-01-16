@@ -17,10 +17,10 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 
 ## Publications
 * **User Intent Prediction in Information-seeking Conversations**  
-**Chen Qu**, Liu Yang, Bruce Croft, Yongfeng Zhang, Johanne R Trippas and Minghui Qiu. **CHIIR 2019**. Full Paper. [[PDF](http://arxiv.org/abs/1901.03489]  
+**Chen Qu**, Liu Yang, Bruce Croft, Yongfeng Zhang, Johanne R Trippas and Minghui Qiu. **CHIIR 2019**. Full Paper. [[PDF](http://arxiv.org/abs/1901.03489)]  
 
 * **Answer Interaction in Non-factoid Question Answering Systems**  
-**Chen Qu**, Liu Yang, W. Bruce Croft, Falk Scholer and Yongfeng Zhang. **CHIIR 2019**. Short Paper. [[PDF](https://arxiv.org/abs/1901.03491]  
+**Chen Qu**, Liu Yang, W. Bruce Croft, Falk Scholer and Yongfeng Zhang. **CHIIR 2019**. Short Paper. [[PDF](https://arxiv.org/abs/1901.03491)]  
 
 * **Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching**  
 **Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [[PDF](http://arxiv.org/abs/1812.11561)]
