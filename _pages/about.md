@@ -16,6 +16,9 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 * Tencent, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
+* **History Modeling for Conversational Question Answering**  
+**Chen Qu**, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang and Mohit Iyyer. **SIGIR 2019**. Short Paper. Acceptance rate=24% (108 out of 443). [To appear]  
+
 * **User Intent Prediction in Information-seeking Conversations**  
 **Chen Qu**, Liu Yang, Bruce Croft, Yongfeng Zhang, Johanne R Trippas and Minghui Qiu. **CHIIR 2019**. Full Paper. [[PDF](http://arxiv.org/abs/1901.03489)]  
 
