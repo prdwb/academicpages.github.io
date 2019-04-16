@@ -35,7 +35,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
-* [Apr. 2018]  A papes accepted by SIGIR 2019.
+* [Apr. 2019]  A papes accepted by SIGIR 2019.
 * [Nov. 2018]  Two papers accepted by CHIIR 2019.
 * [Oct. 2018]  A paper accepted by WSDM 2019.
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
