@@ -11,9 +11,9 @@ redirect_from:
 My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
 
 ## Experience
-* UMass Amherst, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.
-* Alibaba Group, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
-* Tencent, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
+* **UMass Amherst**, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.
+* **Alibaba Group**, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
+* **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
 * **History Modeling for Conversational Question Answering**  
@@ -35,6 +35,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
+* [Apr. 2018]  A papes accepted by SIGIR 2019.
 * [Nov. 2018]  Two papers accepted by CHIIR 2019.
 * [Oct. 2018]  A paper accepted by WSDM 2019.
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
