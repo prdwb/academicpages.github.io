@@ -16,7 +16,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 * **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
-* **History Modeling for Conversational Question Answering**  
+* **BERT with History Answer Embedding for Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang and Mohit Iyyer. **SIGIR 2019**. Short Paper. Acceptance rate=24% (108 out of 443). [To appear]  
 
 * **User Intent Prediction in Information-seeking Conversations**  
@@ -35,6 +35,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
+* [May 2019]  Joining Micorsoft Research Redmond for a Summer internship on conversational search.  
 * [Apr. 2019]  A paper accepted by SIGIR 2019.
 * [Nov. 2018]  Two papers accepted by CHIIR 2019.
 * [Oct. 2018]  A paper accepted by WSDM 2019.
