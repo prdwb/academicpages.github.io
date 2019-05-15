@@ -17,7 +17,7 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 
 ## Publications
 * **BERT with History Answer Embedding for Conversational Question Answering**  
-**Chen Qu**, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang and Mohit Iyyer. **SIGIR 2019**. Short Paper. Acceptance rate=24% (108 out of 443). [To appear]  
+**Chen Qu**, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang and Mohit Iyyer. **SIGIR 2019**. Short Paper. Acceptance rate=24% (108 out of 443). [[PDF](https://arxiv.org/abs/1905.05412)]  
 
 * **User Intent Prediction in Information-seeking Conversations**  
 **Chen Qu**, Liu Yang, Bruce Croft, Yongfeng Zhang, Johanne R Trippas and Minghui Qiu. **CHIIR 2019**. Full Paper. [[PDF](http://arxiv.org/abs/1901.03489)]  
