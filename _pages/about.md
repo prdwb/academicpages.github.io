@@ -11,7 +11,8 @@ redirect_from:
 My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
 
 ## Experience
-* **UMass Amherst**, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.
+* **UMass Amherst**, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.  
+* **Microsoft Research**, Research Intern at [Information and Data Sciences group](https://www.microsoft.com/en-us/research/group/information-and-data-sciences/). Mentors: [Dr. Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). Redmond, US, May 2019 - Aug. 2019.  
 * **Alibaba Group**, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
 * **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
