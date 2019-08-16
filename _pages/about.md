@@ -44,7 +44,7 @@ Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xia
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
-* [Aug. 2019]  Two full papers accepted by CIKM 2019.   
+<!---* [Aug. 2019]  Two full papers accepted by CIKM 2019.-->   
 * [May 2019]  Joining Micorsoft Research Redmond for a Summer internship on conversational search.  
 * [Apr. 2019]  A paper accepted by SIGIR 2019.
 * [Nov. 2018]  Two papers accepted by CHIIR 2019.
