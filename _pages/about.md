@@ -18,10 +18,10 @@ My name is Chen Qu. I am a second year MS/PhD student advised by [Prof. W. Bruce
 
 ## Publications
 * **Attentive History Selection for Conversational Question Answering**  
-**Chen Qu**, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft and Mohit Iyyer. **CIKM 2019**. Full Paper. Acceptance rate=18% (~200 out of ~1130). [To appear]  
+**Chen Qu**, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft and Mohit Iyyer. **CIKM 2019**. Full Paper. Acceptance rate=19% (~200 out of ~1130). [[PDF](https://arxiv.org/abs/1908.09456)]  
 
 * **A Hybrid Retrieval-Generation Neural Conversation Model**  
-Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen and Jingjing Liu. **CIKM 2019**. Full Paper. Acceptance rate=18% (~200 out of ~1130). [To appear]  
+Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen and Jingjing Liu. **CIKM 2019**. Full Paper. Acceptance rate=19% (~200 out of ~1130). [[PDF](https://arxiv.org/abs/1904.09068)]  
 
 * **BERT with History Answer Embedding for Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang and Mohit Iyyer. **SIGIR 2019**. Short Paper. Acceptance rate=24% (108 out of 443). [[PDF](https://arxiv.org/abs/1905.05412)]  
