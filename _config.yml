@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Qu"
 title_separator          : "-"
 name                     : &name "Chen Qu"
-description              : &description "Chen Qu - MS/PhD student in information retrieval"
+description              : &description "Chen Qu - PhD student in information retrieval"
 url                      : https://chenqu.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prdwb/prdwb.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chen QU (曲忱)"
   avatar           : "id.jpg"
-  bio              : "MS/PhD Student and Research Assistant at CIIR, CICS, UMass Amherst"
+  bio              : "PhD Candidate and Research Assistant at CIIR, CICS, UMass Amherst"
   location         : "Amherst, MA, US"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DLe6bcQAAAAJ&hl=en"
