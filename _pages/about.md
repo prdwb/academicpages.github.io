@@ -17,6 +17,9 @@ My name is Chen Qu. I am a third year MS/PhD student advised by [Prof. W. Bruce 
 * **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
+* **IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems**  
+Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[To appear]]  
+
 * **Attentive History Selection for Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft and Mohit Iyyer. **CIKM 2019**. Full Paper. Acceptance rate=19% (~200 out of ~1130). [[PDF](https://arxiv.org/abs/1908.09456)]  
 
@@ -42,6 +45,7 @@ Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xia
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
+* [Jan. 2020]  A short papers accepted by The Web Conference 2020.  
 * [Aug. 2019]  Received the [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support).  
 * [Aug. 2019]  Two full papers accepted by CIKM 2019.  
 * [May 2019]  Joining Micorsoft Research Redmond for a Summer internship on conversational search.  
