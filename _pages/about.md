@@ -18,7 +18,7 @@ My name is Chen Qu. I am a third year MS/PhD student advised by [Prof. W. Bruce 
 
 ## Publications
 * **IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems**  
-Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[To appear]]  
+Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[PDF](https://arxiv.org/abs/2002.00571)]  
 
 * **Attentive History Selection for Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft and Mohit Iyyer. **CIKM 2019**. Full Paper. Acceptance rate=19% (~200 out of ~1130). [[PDF](https://arxiv.org/abs/1908.09456)]  
@@ -58,6 +58,10 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 ## Awards
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
 * SIGIR Student Travel Grant for SIGIR18, CHIIR19, and CIKM19.
+
+## Services
+* Program Committee Members: CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
+* Reviewers: KDD 2019, AAAI 2019, NAACL 2019, ICTIR 2018  
 
 ## CV
 [Download here](https://chenqu.me/files/ChenQU_CV.pdf)
