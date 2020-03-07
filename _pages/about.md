@@ -61,7 +61,7 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 
 ## Services
 * **Program Committee Member**: CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
-* **Reviewer**: KDD 2019, AAAI 2019, NAACL 2019, ICTIR 2018  
+* **Reviewer**: KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
 
 ## CV
 [Download here](https://chenqu.me/files/ChenQU_CV.pdf)
