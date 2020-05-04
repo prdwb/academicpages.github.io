@@ -17,6 +17,12 @@ My name is Chen Qu. I am a third year MS/PhD student advised by [Prof. W. Bruce 
 * **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
 ## Publications
+* **Open-Retrieval Conversational Question Answering**  
+**Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555). [[To appear]()]  
+
+* **Contextual Re-Ranking with Behavior Aware Transformers**  
+**Chen Qu**, Chenyan Xiong, Yizhe Zhang, Corby Rosset, W. Bruce Croft and Paul Bennett. **SIGIR 2020**. Short Paper. Acceptance rate=30% (153 out of 507). [[To appear]()]  
+
 * **IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems**  
 Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[PDF](https://arxiv.org/abs/2002.00571)]  
 
@@ -45,15 +51,10 @@ Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xia
 Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. **SIGIR 2018**. Full Paper. Acceptance rate=21% (86 out of  409). [[PDF](https://arxiv.org/abs/1805.00188)] [[Code](https://github.com/yangliuy/NeuralResponseRanking)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)]
 
 ## News
-* [Jan. 2020]  A short papers accepted by The Web Conference 2020.  
+* [May 2020]  Joining Google for a Summer internship on natural language understanding.  
 * [Aug. 2019]  Received the [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support).  
-* [Aug. 2019]  Two full papers accepted by CIKM 2019.  
 * [May 2019]  Joining Micorsoft Research Redmond for a Summer internship on conversational search.  
-* [Apr. 2019]  A paper accepted by SIGIR 2019.
-* [Nov. 2018]  Two papers accepted by CHIIR 2019.
-* [Oct. 2018]  A paper accepted by WSDM 2019.
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
-* [Apr. 2018]  Two papers accepted by SIGIR 2018.
 
 ## Awards
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
