@@ -57,6 +57,8 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
 
 ## Awards
+* Outstanding Synthesis Project Award.  
+* Passed portfolio with distinction.  
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
 * SIGIR Student Travel Grant: CIKM 2019, CHIIR 2019, SIGIR 2018.
 
