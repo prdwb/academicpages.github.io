@@ -18,10 +18,10 @@ My name is Chen Qu. I am a third year MS/PhD student advised by [Prof. W. Bruce 
 
 ## Publications
 * **Open-Retrieval Conversational Question Answering**  
-**Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555). [[To appear]()]  
+**Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555). [[PDF](https://arxiv.org/pdf/2005.11364.pdf)]  
 
 * **Contextual Re-Ranking with Behavior Aware Transformers**  
-**Chen Qu**, Chenyan Xiong, Yizhe Zhang, Corby Rosset, W. Bruce Croft and Paul Bennett. **SIGIR 2020**. Short Paper. Acceptance rate=30% (153 out of 507). [[To appear]()]  
+**Chen Qu**, Chenyan Xiong, Yizhe Zhang, Corby Rosset, W. Bruce Croft and Paul Bennett. **SIGIR 2020**. Short Paper. Acceptance rate=30% (153 out of 507). [[PDF](http://ciir-publications.cs.umass.edu/getpdf.php?id=1383)]  
 
 * **IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems**  
 Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[PDF](https://arxiv.org/abs/2002.00571)]  
@@ -57,7 +57,7 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
 
 ## Awards
-* Outstanding Synthesis Project Award.  
+* [Outstanding Synthesis Project Award](https://www.cics.umass.edu/news/cics-graduate-students-honored-outstanding-synthesis-projects-teaching-assistance).  
 * Passed portfolio with distinction.  
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
 * SIGIR Student Travel Grant: CIKM 2019, CHIIR 2019, SIGIR 2018.
