@@ -9,9 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Publications by years  
-
-### 2020  
+## 2020  
 
 * **Open-Retrieval Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555). [[PDF](https://arxiv.org/pdf/2005.11364.pdf)]  
@@ -22,7 +20,7 @@ author_profile: true
 * **IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems**  
 Liu Yang, Minghui Qiu, **Chen Qu**, Cen Chen, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft and Haiqing Chen. **WWW 2020**. Short Paper. Acceptance rate=25% (98 out of 397). [[PDF](https://arxiv.org/abs/2002.00571)]  
 
-### 2019  
+## 2019  
 
 * **Attentive History Selection for Conversational Question Answering**  
 **Chen Qu**, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft and Mohit Iyyer. **CIKM 2019**. Full Paper. Acceptance rate=19% (~200 out of ~1130). [[PDF](https://arxiv.org/abs/1908.09456)]  
@@ -42,7 +40,7 @@ Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xia
 * **Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching**  
 **Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511). [[PDF](http://arxiv.org/abs/1812.11561)] [[Slides](https://chenqu.me/files/Learning_to_Selectively_Transfer_WSDM19_QU.pdf)] [[Poster](https://chenqu.me/files/WSDM_19_Poster.pdf)]  
 
-### 2018  
+## 2018  
 
 * **Analyzing and Characterizing User Intent in Information-seeking Conversations**  
 **Chen Qu**, Liu Yang, W. Bruce Croft, Johanne R Trippas, Yongfeng Zhang, Minghui Qiu. **SIGIR 2018**. Short Paper. Acceptance rate=30% (98 out of 327). [[PDF](https://arxiv.org/abs/1804.08759)] [[Data](https://ciir.cs.umass.edu/downloads/msdialog/)] [[Poster](https://chenqu.me/files/SIGIR_18_Poster (2).pdf)]
