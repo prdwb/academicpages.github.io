@@ -12,7 +12,8 @@ My name is Chen Qu. I am a third year MS/PhD student advised by [Prof. W. Bruce 
 
 ## Experience
 * **UMass Amherst**, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.  
-* **Microsoft Research**, Research Intern at [Information and Data Sciences group](https://www.microsoft.com/en-us/research/group/information-and-data-sciences/). Mentors: [Dr. Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). Redmond, US, May 2019 - Aug. 2019.  
+* **Google Research**, Research Intern at [Google Research](https://research.google/) working on content understanding. Host and co-hosts: [Dr. Weize Kong](https://sites.google.com/site/weizekong/home), [Dr. Liu Yang](https://research.google/people/LiuYang/), and [Dr. Mingyang Zhang](https://research.google/people/MingyangZhang/). Mountain View, CA, US, May 2020 - Aug. 2020.  
+* **Microsoft Research**, Research Intern at [Information and Data Sciences group](https://www.microsoft.com/en-us/research/group/information-and-data-sciences/). Mentors: [Dr. Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). Redmond, WA, US, May 2019 - Aug. 2019.  
 * **Alibaba Group**, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
 * **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.
 
@@ -64,7 +65,7 @@ Liu Yang, Minghui Qiu, **Chen Qu**, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft,
 
 ## Services
 * **Program Committee Member**: CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
-* **Reviewer**: KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
+* **Reviewer**: TOIS, KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
 
 ## CV
 [Download here](https://chenqu.me/files/ChenQU_CV.pdf)
