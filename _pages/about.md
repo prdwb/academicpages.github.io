@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chen Qu. I am a fourth year MS/PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
+My name is Chen Qu. I am a fourth year PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/).
 
 ## Experience
-* **UMass Amherst**, MS/PhD student and Research Assistant at Center for Intelligent Information Retrieval (CIIR). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.  
-* **Google Research**, Research Intern at [Google Research](https://research.google/) working on content understanding. Host and co-hosts: [Dr. Weize Kong](https://sites.google.com/site/weizekong/home), [Dr. Liu Yang](https://research.google/people/LiuYang/), and [Dr. Mingyang Zhang](https://research.google/people/MingyangZhang/). Mountain View, CA, US, May 2020 - Aug. 2020.  
-* **Microsoft Research**, Research Intern at [Information and Data Sciences group](https://www.microsoft.com/en-us/research/group/information-and-data-sciences/). Mentors: [Dr. Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). Redmond, WA, US, May 2019 - Aug. 2019.  
-* **Alibaba Group**, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
-* **Tencent**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.  
+* **[UMass Amherst](https://www.umass.edu/)**, MS/PhD student and Research Assistant at [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.  
+* **[Google Research](https://research.google/)**, Research Intern at [Google Research](https://research.google/) working on content understanding. Host and co-hosts: [Dr. Weize Kong](https://sites.google.com/site/weizekong/home), [Dr. Liu Yang](https://research.google/people/LiuYang/), and [Dr. Mingyang Zhang](https://research.google/people/MingyangZhang/). Mountain View, CA, US, May 2020 - Aug. 2020.  
+* **[Microsoft Research](https://www.microsoft.com/en-us/research/)**, Research Intern at [Information and Data Sciences group](https://www.microsoft.com/en-us/research/group/information-and-data-sciences/). Mentors: [Dr. Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). Redmond, WA, US, May 2019 - Aug. 2019.  
+* **[Alibaba Group](https://www.alibabagroup.com/en/global/home)**, Research Intern at AliMe X-Lab. Mentors: [Dr. Feng Ji](https://www.linkedin.com/in/feng-ji-68055b62/) and [Dr. Minghui Qiu](https://sites.google.com/site/qiumh0727/). Hangzhou, China, May 2018 - Aug. 2018.
+* **[Tencent](https://www.tencent.com/en-us/about.html)**, Software Engineer Intern. Shenzhen, China, Jul 2016 - Aug. 2016.  
 
 ## News
 * [May 2020]  Joining Google for a Summer internship on natural language understanding.  
