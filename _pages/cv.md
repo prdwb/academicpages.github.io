@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](https://chenqu.me/files/ChenQU_CV.pdf)
+[Click to download](https://chenqu.me/files/ChenQU_CV.pdf)
