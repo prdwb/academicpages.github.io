@@ -27,9 +27,11 @@ My name is Chen Qu. I am a fourth year PhD student advised by [Prof. W. Bruce Cr
 * [Outstanding Synthesis Project Award](https://www.cics.umass.edu/news/cics-graduate-students-honored-outstanding-synthesis-projects-teaching-assistance).  
 * Passed portfolio with distinction.  
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
-* SIGIR Student Travel Grant: CIKM 2019, CHIIR 2019, SIGIR 2018.
+* SIGIR Student Travel Grant: SIGIR 2020, CIKM 2019, CHIIR 2019, SIGIR 2018.
 
 ## Services
 * **Program Committee Member**: CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
 * **Reviewer**: TOIS, KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
 
+## Teaching
+* I am the Teaching Assistant for [CS646 Information Retrieval (Fall 2020)](https://people.cs.umass.edu/~rahimi/teaching/cs646-fall2020/cs646.html), a graduate-level course, at UMass Amherst.  
