@@ -11,8 +11,8 @@ author_profile: true
 
 ## 2020  
 
-* **Open-Retrieval Conversational Question Answering**  
-**Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555). [[PDF](https://arxiv.org/pdf/2005.11364.pdf)]  
+* **[Open-Retrieval Conversational Question Answering](https://arxiv.org/pdf/2005.11364.pdf)**  
+**Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555).  
 
 * **Contextual Re-Ranking with Behavior Aware Transformers**  
 **Chen Qu**, Chenyan Xiong, Yizhe Zhang, Corby Rosset, W. Bruce Croft and Paul Bennett. **SIGIR 2020**. Short Paper. Acceptance rate=30% (153 out of 507). [[PDF](http://ciir-publications.cs.umass.edu/getpdf.php?id=1383)]  
