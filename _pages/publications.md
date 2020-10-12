@@ -37,7 +37,7 @@ Liu Yang, Junjie Hu, Minghui Qiu, **Chen Qu**, Jianfeng Gao, W. Bruce Croft, Xia
 * <span style="color:#52adc8">**[Answer Interaction in Non-factoid Question Answering Systems](https://arxiv.org/pdf/1901.03491.pdf)**</span>  
 **Chen Qu**, Liu Yang, W. Bruce Croft, Falk Scholer and Yongfeng Zhang. **CHIIR 2019**. Short Paper.  
 
-* <span style="color:#52adc8">**[Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching](https://arxiv.org/abs/1812.11561)**</span>  
+* <span style="color:#52adc8">**[Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching](https://arxiv.org/pdf/1812.11561.pdf)**</span>  
 **Chen Qu**, Feng Ji, Minghui Qiu, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. **WSDM 2019**. Full Paper. Acceptance rate=16% (84 out of 511).  
 
 ## 2018  
