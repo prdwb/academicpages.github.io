@@ -32,7 +32,7 @@ Seeking full-time positions to start in Fall 2021.
 * SIGIR Student Travel Grant: SIGIR 2020, CIKM 2019, CHIIR 2019, SIGIR 2018.
 
 ## Services
-* **Program Committee Member**: ECIR 2021, CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
+* **Program Committee Member**: NAACL 2021, ECIR 2021, CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
 * **Reviewer**: TOIS, KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
 
 ## Teaching
