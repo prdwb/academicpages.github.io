@@ -26,8 +26,9 @@ Seeking full-time positions to start in Fall 2021.
 * [May 2018]  Joining the [AliMe](http://alixiaomi.com/) team at Alibaba Group to do a Summer research internship on multi-turn QA and conversational assistants.
 
 ## Awards
+* Dissertation Writing Fellowship, Spring 2021.  
 * [Outstanding Synthesis Project Award](https://www.cics.umass.edu/news/cics-graduate-students-honored-outstanding-synthesis-projects-teaching-assistance).  
-* Passed portfolio with distinction.  
+* PhD Candidancy with Distinction.  
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
 * SIGIR Student Travel Grant: SIGIR 2020, CIKM 2019, CHIIR 2019, SIGIR 2018.
 
