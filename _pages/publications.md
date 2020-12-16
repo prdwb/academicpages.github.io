@@ -11,7 +11,10 @@ author_profile: true
 
 ## 2020  
 
-* <span style="color:#52adc8">**Reinforced History Backtracking for Conversational Question Answering (To appear)**</span>  
+* <span style="color:#52adc8">**Weakly-Supervised Open-Retrieval Conversational Question Answering**</span> (To appear)  
+**Chen Qu**, Liu Yang, Cen Chen, W. Bruce Croft, Kalpesh Krishna, Mohit Iyyer. **ECIR 2021**. Full Paper. 24.1%.  
+
+* <span style="color:#52adc8">**Reinforced History Backtracking for Conversational Question Answering**</span> (To appear)  
 Minghui Qiu, Xinjing Huang, Cen Chen, Feng Ji, **Chen Qu**, Wei Wei, Jun Huang, and Yin Zhang. **AAAI 2021**. Full Paper. Acceptance rate=21% (1,692 out of 7,911).  
 
 * <span style="color:#52adc8">**[Open-Retrieval Conversational Question Answering](https://arxiv.org/pdf/2005.11364.pdf)**</span>  
