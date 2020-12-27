@@ -28,12 +28,12 @@ Seeking full-time positions to start in Fall 2021.
 ## Awards
 * Dissertation Writing Fellowship, Spring 2021.  
 * [Outstanding Synthesis Project Award](https://www.cics.umass.edu/news/cics-graduate-students-honored-outstanding-synthesis-projects-teaching-assistance).  
-* PhD Candidancy with Distinction.  
+* PhD Candidacy with Distinction. 2020.  
 * [W. Bruce Croft Graduate Scholarship in Computer Science](https://www.cics.umass.edu/support) 2019.  
 * SIGIR Student Travel Grant: SIGIR 2020, CIKM 2019, CHIIR 2019, SIGIR 2018.
 
 ## Services
-* **Program Committee Member**: NAACL 2021, ECIR 2021, CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
+* **Program Committee Member**: ECIR 2021, CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
 * **Reviewer**: TOIS, KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
 
 ## Teaching
