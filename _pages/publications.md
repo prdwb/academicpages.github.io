@@ -9,13 +9,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## 2020  
+## 2021  
 
 * **Weakly-Supervised Open-Retrieval Conversational Question Answering** (To appear)  
 **Chen Qu**, Liu Yang, Cen Chen, W. Bruce Croft, Kalpesh Krishna, Mohit Iyyer. **ECIR 2021**. Full Paper. Acceptance rate=24.1%.  
 
 * **Reinforced History Backtracking for Conversational Question Answering** (To appear)  
 Minghui Qiu, Xinjing Huang, Cen Chen, Feng Ji, **Chen Qu**, Wei Wei, Jun Huang, and Yin Zhang. **AAAI 2021**. Full Paper. Acceptance rate=21% (1,692 out of 7,911).  
+
+## 2020  
 
 * <span style="color:#52adc8">**[Open-Retrieval Conversational Question Answering](https://arxiv.org/pdf/2005.11364.pdf)**</span>  
 **Chen Qu**, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft and Mohit Iyyer. **SIGIR 2020**. Full Paper. Acceptance rate=26% (147 out of 555).  
