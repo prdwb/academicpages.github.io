@@ -10,8 +10,6 @@ redirect_from:
 
 My name is Chen Qu. I am a final year PhD student advised by [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/), [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/). I focus on conversational search, Information Retrieval, and Natural Language Processing.  
 
-Seeking full-time positions to start in Fall 2021.
-
 ## Experience
 * **[UMass Amherst](https://www.umass.edu/)**, MS/PhD student and Research Assistant at [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). Advisor: [Prof. W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, US, Sept. 2017 - Present.  
 * **[Google Research](https://research.google/)**, Research Intern working on natural language understanding. Mentors and managers: [Weize Kong](https://sites.google.com/site/weizekong/home), [Liu Yang](https://research.google/people/LiuYang/), [Mingyang Zhang](https://research.google/people/MingyangZhang/), and [Michael Bendersky](https://research.google/people/MichaelBendersky/). Mountain View, CA, US, May 2020 - Sep. 2020.  
