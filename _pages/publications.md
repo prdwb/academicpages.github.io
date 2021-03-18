@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2021  
 
-* **Weakly-Supervised Open-Retrieval Conversational Question Answering** (To appear)  
+* <span style="color:#52adc8">**[Weakly-Supervised Open-Retrieval Conversational Question Answering](https://arxiv.org/pdf/2103.02537.pdf)**</span>  
 **Chen Qu**, Liu Yang, Cen Chen, W. Bruce Croft, Kalpesh Krishna, Mohit Iyyer. **ECIR 2021**. Full Paper. Acceptance rate=24.1%.  
 
 * **Reinforced History Backtracking for Conversational Question Answering** (To appear)  
