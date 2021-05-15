@@ -31,8 +31,8 @@ My name is Chen Qu. I am a final year PhD student advised by [Prof. W. Bruce Cro
 * SIGIR Student Travel Grant: SIGIR 2020, CIKM 2019, CHIIR 2019, SIGIR 2018.
 
 ## Services
-* **Program Committee Member**: ACL 2021, ECIR 2021, CIKM 2020, ECIR 2020, DAPA@WSDM 2019, EARS@SIGIR 2019  
-* **Reviewer**: TOIS, KDD 2019-2020, AAAI 2019, NAACL 2019, ICTIR 2018  
+* **Conference PC Member and Reviewer**: SIGIR, CIKM, ECIR, ICTIR, KDD, ACL, EMNLP, NAACL, AAAI, CCL
+* **Journal Reviewer**: ACM Transactions on Information Systems (TOIS), ACM Transactions on Privacy and Security (TOPS)  
 
 ## Teaching
 * I was the Teaching Assistant for [CS646 Information Retrieval (Fall 2020)](https://people.cs.umass.edu/~rahimi/teaching/cs646-fall2020/cs646.html), a graduate-level course, at UMass Amherst.  
